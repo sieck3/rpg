@@ -1,0 +1,6 @@
+[
+null,
+{"id":1,"expanded":true,"name":"mexico","order":1,"parentId":0,"scrollX":655.2,"scrollY":368.8},
+{"id":2,"expanded":false,"name":"Ciudad normal","order":2,"parentId":1,"scrollX":816,"scrollY":1296.6666666666667},
+{"id":3,"expanded":false,"name":"Cueva de piedra","order":3,"parentId":1,"scrollX":816,"scrollY":800}
+]
