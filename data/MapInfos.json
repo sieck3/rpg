@@ -1,7 +1,7 @@
 [
 null,
-{"id":1,"expanded":false,"name":"pasillo","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":1,"expanded":true,"name":"pasillo","order":2,"parentId":0,"scrollX":720.8888888888889,"scrollY":550.2222222222222},
+{"id":2,"expanded":false,"name":"entrada","order":3,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
 null,
-null,
-{"id":4,"expanded":true,"name":"inicio","order":1,"parentId":0,"scrollX":819,"scrollY":461}
+{"id":4,"expanded":true,"name":"inicio","order":1,"parentId":0,"scrollX":728,"scrollY":409.77777777777777}
 ]
