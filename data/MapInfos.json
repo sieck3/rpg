@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"pasillo","order":2,"parentId":0,"scrollX":832,"scrollY":640},
+{"id":2,"expanded":true,"name":"entrada","order":3,"parentId":0,"scrollX":728,"scrollY":409.77777777777777},
+{"id":3,"expanded":false,"name":"Trampa","order":4,"parentId":2,"scrollX":832,"scrollY":640},
+{"id":4,"expanded":true,"name":"inicio","order":1,"parentId":0,"scrollX":832,"scrollY":640}
+]
